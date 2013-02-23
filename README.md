@@ -13,3 +13,8 @@ How to use:<br></br>
 <br></br><br></br>
 ffmpeg will do recording on the fly and your video will be ready immediately.
 
+
+NOTE: First use screencast.sh
+If screencast.sh fails try same steps with screencast2.sh
+
+(Donot forget to change screen resolution in screencast2.sh)
